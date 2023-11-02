@@ -19,7 +19,8 @@
 
 ## 서예린
 ### 카카오 뱅크 메인페이지
-<img width="250" alt="screenshot 2023-11-02 at 8:11PM" src="C:\Users\user\Desktop\kakaobank\assets\Screenshot_20231102_201948.png">
+<img width="250" alt="screenshot 2023-11-02 at 8:11PM" src="https://github.com/Flutter-Study-in-DSM-2023/CloneCoding-1/assets/127005534/e950d706-e32c-4f83-a43a-f14b6d458103
+">
 
 ### 문제점
 - 더보기 아이콘의 위치가 바뀌지 않음
