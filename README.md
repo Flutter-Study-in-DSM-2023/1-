@@ -21,7 +21,6 @@
 ### 카카오 뱅크 메인페이지
 <img width="250" alt="screenshot 2023-11-02 at 8:11PM" src="C:\Users\user\Documents\Screenshot_20231101_225209.png">
 
-
-### 문제접
+### 문제점
 - 더보기 아이콘의 위치가 바뀌지 않음
 - 제일 위에 title이 바뀌지 않음
