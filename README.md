@@ -19,7 +19,7 @@
 
 ## 서예린
 ### 카카오 뱅크 메인페이지
-<img width="250" alt="screenshot 2023--11-02 at 8:11PM" src="![Screenshot_20231101_225209](https://github.com/Flutter-Study-in-DSM-2023/CloneCoding-1/assets/127005534/3e7789da-cf3b-497b-9a4b-1d88e14d32d7)">
+<img width="250" alt="screenshot 2023-11-02 at 8:11PM" src=![Screenshot_20231101_225209](https://github.com/Flutter-Study-in-DSM-2023/CloneCoding-1/assets/127005534/3e7789da-cf3b-497b-9a4b-1d88e14d32d7)>
 
 
 
