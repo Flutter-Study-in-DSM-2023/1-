@@ -19,6 +19,7 @@
 
 ## 서예린
 ### 카카오 뱅크 메인페이지
+<img width="250" alt="screenshot 2023-11-02 at 8:11PM" src="C:\Users\user\Documents\Screenshot_20231101_225209.png">
 
 
 ### 문제접
